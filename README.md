@@ -251,4 +251,4 @@ This repository serves as the official landing page for JClic. The software is d
 **Get the most recent version of JClic today!**
 
 ---
-**Last updated:** 2026-10-21 13:34:10 UTC
+**Last updated:** 2026-10-21 18:28:42 UTC
